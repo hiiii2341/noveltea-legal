@@ -15,3 +15,5 @@ Styles: `shared.css`. Icons: `assets/` (made from the book-and-tea logo).
 
 Edit the HTML, commit to `main`, and GitHub Pages redeploys in about a minute.
 When a policy's text changes, bump its "last revised" date at the top and bottom.
+
+After editing `shared.css`, bump the `?v=N` on its `<link>` in all four pages so browsers drop the cached copy.

@@ -1,7 +1,7 @@
 # noveltea-legal
 
 Public Support, Privacy Policy, and Terms of Use pages for the NovelTea iOS app
-(SIER Technologies Inc.), served by GitHub Pages. Layout follows dailydove.app's
+(SIER Technologies Inc.), served by GitHub Pages at https://thenoveltea.com (domain at Namecheap; `CNAME` file sets it). Layout follows dailydove.app's
 pages, recoloured to the NovelTea brand.
 
 | Page | File | URL path |
